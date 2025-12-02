@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Recab+John;Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Naveenn;Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,18 +10,19 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **New Technologies**
-- 👯 I’m looking to collaborate on **Exciting Projects**
-- 💬 Ask me about **Development & Tech**
-- 📫 How to reach me: **recabjohn@gmail.com**
+🔭 I’m currently working on **Full Stack Web Development & AI integration** 
+- 🌱 I’m currently learning **Deep Learning using Python & Cloud Computing** 
+- 👯 I’m looking to collaborate on **Machine Learning solutions for social impact** 
+- 🤝 I’m looking for help with **Advanced 3D Modeling techniques**
+- 💬 Ask me about **React.js, Java, Python, and MERN Stack** 
+- 📫 How to reach me: **nn0075459c@gmail.com** 
+- ⚡ Portfolio: **[naveenen.netlify.app](https://naveenen.netlify.app)**
 
 ---
 
-### 🛠️ Languages and Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,html,css,react,nextjs,nodejs,express,mongodb,mysql,postgres,docker,kubernetes,aws,git,github,vscode,linux&perline=10" />
-</div>
+
+
 
 ---
 
@@ -53,5 +54,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/recabjohn/recabjohn/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="https://github.com/Naveenprabhakaran14/Naveenprabhakaran14/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
