@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Naveenn;Developer;Open+Source+Enthusiast;Always+Learning..." alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/recabjohn/count.svg" alt="Visitor Count" />
-</div>
+
 
 ---
 
@@ -56,3 +54,4 @@
 <div align="center">
   <img src="https://github.com/Naveenprabhakaran14/Naveenprabhakaran14/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 </div>
+
